@@ -1,6 +1,7 @@
 from selenium.webdriver.support.wait import WebDriverWait
 from capability import driver, NoSuchElementException
 from log import log
+import yaml
 
 
 def login(username, password):

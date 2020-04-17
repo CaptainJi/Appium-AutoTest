@@ -1,0 +1,11 @@
+platformName: Android
+deviceName: 27dc7322
+platformVersion: 7.1.1
+app: C:\Users\CaptainJi\Desktop\apk\alipay.apk
+appPackage: com.eg.android.AlipayGphone
+appActivity: com.eg.android.AlipayGphone.AlipayLogin
+noReset: True
+unicodeKeyboard: True
+resetKeyboard: True
+ip: localhost
+port: 4723
