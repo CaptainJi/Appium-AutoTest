@@ -1,0 +1,13 @@
+#capability配置信息
+
+platformName: Android
+deviceName: 27dc7322
+platformVersion: 7.1.1
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+appname: kaoyan3.1.0.apk
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+ip: localhost
+port: 4723

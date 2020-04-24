@@ -1,11 +1,11 @@
 platformName: Android
 deviceName: 27dc7322
 platformVersion: 7.1.1
-app: C:\Users\CaptainJi\Desktop\apk\alipay.apk
-appPackage: com.eg.android.AlipayGphone
-appActivity: com.eg.android.AlipayGphone.AlipayLogin
+app: C:\Users\CaptainJi\Desktop\apk\PlatformLimits2020.4.17.apk
+appPackage: com.antong.ztxj
+appActivity: com.antong.ztxj.MainActivity
 noReset: True
-unicodeKeyboard: True
-resetKeyboard: True
+unicodeKeyboard: False
+resetKeyboard: False
 ip: localhost
 port: 4723

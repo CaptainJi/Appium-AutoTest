@@ -2,13 +2,13 @@ import yaml
 import logging.config
 from appium import webdriver
 
-conLog = './config/log.conf'
+conLog = '../config/log.conf'
 logging.config.fileConfig(conLog)
 logging = logging.getLogger()
 
 
 def appium_desired():
-    stream = open('./yaml/capability.yaml', 'r')
+    stream = open('../yaml/capability.yaml', 'r')
     data = yaml.load(stream, Loader=yaml.FullLoader)
 
     desired_caps = {}
