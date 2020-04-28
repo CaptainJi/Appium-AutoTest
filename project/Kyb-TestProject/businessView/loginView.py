@@ -57,6 +57,7 @@ class LoginView(Common):
             return False
         else:
             logging.info('登陆成功')
+            self.getScreenShot('登陆成功')
             self.logout_action()
             return True
 

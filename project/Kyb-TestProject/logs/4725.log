@@ -1,0 +1,31 @@
+[35m[Appium][39m Welcome to Appium v1.17.0
+[35m[Appium][39m Non-default server args:
+[35m[Appium][39m   address: 127.0.0.1
+[35m[Appium][39m   port: 4725
+[35m[Appium][39m   bootstrapPort: 4726
+[35m[Appium][39m Appium REST http interface listener started on 127.0.0.1:4725
+
+(venv) E:\GitHub\Appium-AutoTest\project\Kyb-TestProject\common>on-default server args:
+[35m[Appium][39m   address: 127.0.0.1
+[35m[Appium][39m   port: 4725
+[35m[Appium][39m   bootstrapPort: 4726
+[35m[HTTP][39m Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.
+Fatal Error: listen EADDRINUSE: address already in use 127.0.0.1:4725
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at doListen (net.js:1498:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21)
+
+(venv) E:\GitHub\Appium-AutoTest\project\Kyb-TestProject\common>[35m[Appium][39m Welcome to Appium v1.17.0
+[35m[Appium][39m Non-default server args:
+[35m[Appium][39m   address: 127.0.0.1
+[35m[Appium][39m   port: 4725
+[35m[Appium][39m   bootstrapPort: 4726
+[35m[HTTP][39m Could not start REST http interface listener. The requested port may already be in use. Please make sure there is no other instance of this server running already.
+Fatal Error: listen EADDRINUSE: address already in use 127.0.0.1:4725
+    at Server.setupListenHandle [as _listen2] (net.js:1313:16)
+    at listenInCluster (net.js:1361:12)
+    at doListen (net.js:1498:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21)
+
+(venv) E:\GitHub\Appium-AutoTest\project\Kyb-TestProject\common>

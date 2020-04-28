@@ -9,6 +9,7 @@ from businessView.loginView import LoginView
 class TestLogin(StartEnd):
     csv_file = '../data/account.csv'
 
+    # @unittest.skip('跳过')
     def test_login_1(self):
         logging.info('测试登录第一个账户')
         # 调用登录业务模块
@@ -20,7 +21,7 @@ class TestLogin(StartEnd):
         # 断言执行是否成功
         self.assertTrue(login.check_login_status())
 
-    @unittest.skip('跳过')
+    # @unittest.skip('跳过')
     def test_login_2(self):
         logging.info('测试登录第二个账户')
         login = LoginView(self.driver)
@@ -28,7 +29,7 @@ class TestLogin(StartEnd):
         login.login_action(data[0], data[1])
         self.assertTrue(login.check_login_status())
 
-    @unittest.skip('跳过')
+    # @unittest.skip('跳过')
     def test_login_3(self):
         logging.info('测试登录第三个账户')
         login = LoginView(self.driver)

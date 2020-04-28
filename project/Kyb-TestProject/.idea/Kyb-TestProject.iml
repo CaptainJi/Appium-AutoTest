@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/common" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/base" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/config" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/server" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (Kyb-TestProject)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

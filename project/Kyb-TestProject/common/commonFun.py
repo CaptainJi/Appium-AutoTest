@@ -95,6 +95,7 @@ class Common(BaseView):
         now_time = self.getTime()
         image_file = os.path.dirname(os.path.dirname(__file__)) + '/screenshots/%s %s.png' % (module, now_time)
         logging.info('获取“%s”屏幕截图' % module)
+        print('截图:'+'%s %s.png' % (module, now_time))
         self.driver.get_screenshot_as_file(image_file)
 
     def check_market_ad(self):

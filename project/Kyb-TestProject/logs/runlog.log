@@ -841,3 +841,2095 @@
 2020-04-24 16:14:42,279 run.py[line:25] INFO test
 2020-04-24 16:14:42,280 myunit.py[line:9] INFO ======开始测试======
 2020-04-24 16:14:42,282 desiredCaps.py[line:33] INFO 启动APP
+2020-04-24 16:58:33,283 run.py[line:25] INFO test
+2020-04-24 16:58:33,283 myunit.py[line:9] INFO ======开始测试======
+2020-04-24 16:58:33,285 desiredCaps.py[line:33] INFO 启动APP
+2020-04-24 16:58:55,154 testLogin.py[line:13] INFO 测试登录第一个账户
+2020-04-24 16:58:55,154 commonFun.py[line:113] INFO 获取csv数据
+2020-04-24 16:58:55,155 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-24 16:58:56,115 commonFun.py[line:27] INFO 取消升级
+2020-04-24 16:58:56,177 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-24 16:58:56,330 commonFun.py[line:37] INFO 跳过
+2020-04-24 16:58:56,952 loginView.py[line:28] INFO 开始登录
+2020-04-24 16:58:56,952 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-24 16:59:01,015 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-24 16:59:02,873 loginView.py[line:33] INFO 点击登录按钮
+2020-04-24 16:59:04,933 loginView.py[line:47] INFO 检查登录状态
+2020-04-24 16:59:04,934 commonFun.py[line:101] INFO 检查广告弹窗
+2020-04-24 16:59:07,369 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-24 16:59:11,112 loginView.py[line:59] INFO 登陆成功
+2020-04-24 16:59:11,113 loginView.py[line:64] INFO 退出登录
+2020-04-24 16:59:16,961 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 10:04:28,675 run.py[line:26] INFO 测试开始
+2020-04-26 10:04:28,687 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 10:04:28,689 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 10:04:55,174 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 10:04:55,176 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 10:05:17,564 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 10:05:17,566 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 10:05:50,169 testLogin.py[line:33] INFO 测试登录第三个账户
+2020-04-26 10:05:50,170 commonFun.py[line:113] INFO 获取csv数据
+2020-04-26 10:05:50,179 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 10:05:51,741 commonFun.py[line:27] INFO 取消升级
+2020-04-26 10:05:51,823 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 10:05:52,621 commonFun.py[line:37] INFO 跳过
+2020-04-26 10:05:52,691 loginView.py[line:28] INFO 开始登录
+2020-04-26 10:05:52,691 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-26 10:05:54,971 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-26 10:05:56,978 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 10:05:58,028 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 10:05:58,028 commonFun.py[line:101] INFO 检查广告弹窗
+2020-04-26 10:06:01,016 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 10:06:06,046 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 10:06:06,046 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 10:06:06,546 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 10:07:16,381 run.py[line:26] INFO 测试开始
+2020-04-26 10:07:16,382 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 10:07:16,384 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 10:07:37,325 testLogin.py[line:13] INFO 测试登录第一个账户
+2020-04-26 10:07:37,326 commonFun.py[line:113] INFO 获取csv数据
+2020-04-26 10:07:37,327 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 10:07:38,408 commonFun.py[line:27] INFO 取消升级
+2020-04-26 10:07:38,444 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 10:07:38,636 commonFun.py[line:37] INFO 跳过
+2020-04-26 10:07:39,268 loginView.py[line:28] INFO 开始登录
+2020-04-26 10:07:39,268 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-26 10:07:42,509 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-26 10:07:44,341 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 10:07:45,435 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 10:07:45,435 commonFun.py[line:101] INFO 检查广告弹窗
+2020-04-26 10:07:47,707 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 10:07:50,742 loginView.py[line:59] INFO 登陆成功
+2020-04-26 10:07:50,743 loginView.py[line:64] INFO 退出登录
+2020-04-26 10:07:55,373 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 10:07:58,561 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 10:07:58,565 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 10:08:20,726 testLogin.py[line:25] INFO 测试登录第二个账户
+2020-04-26 10:08:20,726 commonFun.py[line:113] INFO 获取csv数据
+2020-04-26 10:08:20,727 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 10:08:21,622 commonFun.py[line:27] INFO 取消升级
+2020-04-26 10:08:21,666 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 10:08:21,821 commonFun.py[line:37] INFO 跳过
+2020-04-26 10:08:22,435 loginView.py[line:28] INFO 开始登录
+2020-04-26 10:08:22,436 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 10:08:25,610 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 10:08:27,460 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 10:08:28,538 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 10:08:28,538 commonFun.py[line:101] INFO 检查广告弹窗
+2020-04-26 10:08:31,483 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 10:08:35,551 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 10:08:35,551 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 10:08:35,958 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 10:08:39,164 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 10:08:39,171 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 10:09:01,451 testLogin.py[line:33] INFO 测试登录第三个账户
+2020-04-26 10:09:01,451 commonFun.py[line:113] INFO 获取csv数据
+2020-04-26 10:09:01,452 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 10:09:02,611 commonFun.py[line:27] INFO 取消升级
+2020-04-26 10:09:02,689 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 10:09:03,500 commonFun.py[line:37] INFO 跳过
+2020-04-26 10:09:03,552 loginView.py[line:28] INFO 开始登录
+2020-04-26 10:09:03,553 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-26 10:09:06,749 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-26 10:09:08,609 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 10:09:09,667 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 10:09:09,667 commonFun.py[line:101] INFO 检查广告弹窗
+2020-04-26 10:09:12,605 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 10:09:18,898 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 10:09:18,898 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 10:09:19,350 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 10:11:31,765 run.py[line:31] INFO 测试开始
+2020-04-26 10:11:31,765 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 10:11:31,767 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 10:11:52,907 testLogin.py[line:13] INFO 测试登录第一个账户
+2020-04-26 10:11:52,907 commonFun.py[line:113] INFO 获取csv数据
+2020-04-26 10:11:52,909 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 10:11:53,838 commonFun.py[line:27] INFO 取消升级
+2020-04-26 10:11:53,875 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 10:11:54,648 commonFun.py[line:37] INFO 跳过
+2020-04-26 10:11:54,719 loginView.py[line:28] INFO 开始登录
+2020-04-26 10:11:54,719 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-26 10:11:57,218 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-26 10:11:59,557 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 10:12:00,256 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 10:12:00,256 commonFun.py[line:101] INFO 检查广告弹窗
+2020-04-26 10:12:02,679 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 10:12:05,642 loginView.py[line:59] INFO 登陆成功
+2020-04-26 10:12:05,643 loginView.py[line:64] INFO 退出登录
+2020-04-26 10:12:10,356 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 10:12:13,492 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 10:12:13,500 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 10:12:35,615 testLogin.py[line:25] INFO 测试登录第二个账户
+2020-04-26 10:12:35,615 commonFun.py[line:113] INFO 获取csv数据
+2020-04-26 10:12:35,616 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 10:12:36,511 commonFun.py[line:27] INFO 取消升级
+2020-04-26 10:12:36,561 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 10:12:37,298 commonFun.py[line:37] INFO 跳过
+2020-04-26 10:12:37,350 loginView.py[line:28] INFO 开始登录
+2020-04-26 10:12:37,350 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 10:12:39,349 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 10:12:41,323 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 10:12:42,377 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 10:12:42,378 commonFun.py[line:101] INFO 检查广告弹窗
+2020-04-26 10:12:45,355 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 10:12:50,944 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 10:12:50,945 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 10:12:51,415 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 10:12:54,625 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 10:12:54,632 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 10:13:16,789 testLogin.py[line:33] INFO 测试登录第三个账户
+2020-04-26 10:13:16,789 commonFun.py[line:113] INFO 获取csv数据
+2020-04-26 10:13:16,790 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 10:13:17,672 commonFun.py[line:27] INFO 取消升级
+2020-04-26 10:13:17,707 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 10:13:18,447 commonFun.py[line:37] INFO 跳过
+2020-04-26 10:13:18,500 loginView.py[line:28] INFO 开始登录
+2020-04-26 10:13:18,501 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-26 10:13:20,539 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-26 10:13:22,416 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 10:13:23,519 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 10:13:23,520 commonFun.py[line:101] INFO 检查广告弹窗
+2020-04-26 10:13:26,527 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 10:13:31,789 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 10:13:31,789 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 10:13:32,271 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 11:42:42,753 run.py[line:27] INFO 测试开始
+2020-04-26 11:42:42,753 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 11:42:42,755 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 11:51:32,772 run.py[line:27] INFO 测试开始
+2020-04-26 11:51:32,772 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 11:51:32,774 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 11:51:53,954 testLogin.py[line:13] INFO 测试登录第一个账户
+2020-04-26 11:51:53,954 commonFun.py[line:113] INFO 获取csv数据
+2020-04-26 11:51:53,960 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 11:51:54,893 commonFun.py[line:27] INFO 取消升级
+2020-04-26 11:51:54,935 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 11:51:55,687 commonFun.py[line:37] INFO 跳过
+2020-04-26 11:51:55,739 loginView.py[line:28] INFO 开始登录
+2020-04-26 11:51:55,739 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-26 11:51:57,541 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-26 11:51:59,583 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 11:52:00,650 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 11:52:00,651 commonFun.py[line:101] INFO 检查广告弹窗
+2020-04-26 11:52:02,991 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 11:52:05,986 loginView.py[line:59] INFO 登陆成功
+2020-04-26 11:52:05,986 loginView.py[line:64] INFO 退出登录
+2020-04-26 11:52:11,586 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 11:52:14,740 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 11:52:14,748 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 11:52:37,117 testLogin.py[line:25] INFO 测试登录第二个账户
+2020-04-26 11:52:37,117 commonFun.py[line:113] INFO 获取csv数据
+2020-04-26 11:52:37,118 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 11:52:37,976 commonFun.py[line:27] INFO 取消升级
+2020-04-26 11:52:38,031 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 11:52:38,783 commonFun.py[line:37] INFO 跳过
+2020-04-26 11:52:38,838 loginView.py[line:28] INFO 开始登录
+2020-04-26 11:52:38,838 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 11:52:41,791 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 11:52:43,735 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 11:52:44,753 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 11:52:44,753 commonFun.py[line:101] INFO 检查广告弹窗
+2020-04-26 11:52:47,697 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 11:52:52,756 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 11:52:52,757 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 11:52:53,222 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 11:52:56,400 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 11:52:56,407 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 11:53:19,015 testLogin.py[line:33] INFO 测试登录第三个账户
+2020-04-26 11:53:19,015 commonFun.py[line:113] INFO 获取csv数据
+2020-04-26 11:53:19,016 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 11:53:19,867 commonFun.py[line:27] INFO 取消升级
+2020-04-26 11:53:19,917 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 11:53:20,666 commonFun.py[line:37] INFO 跳过
+2020-04-26 11:53:20,719 loginView.py[line:28] INFO 开始登录
+2020-04-26 11:53:20,720 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-26 11:53:23,935 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-26 11:53:25,897 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 11:53:26,947 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 11:53:26,947 commonFun.py[line:101] INFO 检查广告弹窗
+2020-04-26 11:53:29,848 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 11:53:33,898 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 11:53:33,899 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 11:53:34,389 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 11:56:19,231 run.py[line:27] INFO 测试开始
+2020-04-26 11:56:19,231 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 11:56:19,233 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 11:56:40,530 testLogin.py[line:13] INFO 测试登录第一个账户
+2020-04-26 11:56:40,530 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 11:56:40,532 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 11:56:41,379 commonFun.py[line:27] INFO 取消升级
+2020-04-26 11:56:41,421 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 11:56:42,171 commonFun.py[line:37] INFO 跳过
+2020-04-26 11:56:42,243 loginView.py[line:28] INFO 开始登录
+2020-04-26 11:56:42,244 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-26 11:56:44,609 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-26 11:56:46,617 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 11:56:47,633 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 11:56:47,633 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 11:56:49,952 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 11:56:54,877 loginView.py[line:59] INFO 登陆成功
+2020-04-26 11:56:54,878 loginView.py[line:64] INFO 退出登录
+2020-04-26 11:56:58,689 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 11:57:01,844 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 11:57:01,851 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 11:57:24,127 testLogin.py[line:25] INFO 测试登录第二个账户
+2020-04-26 11:57:24,128 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 11:57:24,129 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 11:57:24,993 commonFun.py[line:27] INFO 取消升级
+2020-04-26 11:57:25,044 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 11:57:25,199 commonFun.py[line:37] INFO 跳过
+2020-04-26 11:57:25,837 loginView.py[line:28] INFO 开始登录
+2020-04-26 11:57:25,837 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 11:57:27,763 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 11:57:29,757 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 11:57:30,815 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 11:57:30,815 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 11:57:33,783 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 11:57:39,810 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 11:57:39,811 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 11:57:40,278 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 11:57:43,499 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 11:57:43,507 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 11:58:06,158 testLogin.py[line:33] INFO 测试登录第三个账户
+2020-04-26 11:58:06,159 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 11:58:06,159 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 11:58:07,010 commonFun.py[line:27] INFO 取消升级
+2020-04-26 11:58:07,058 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 11:58:07,855 commonFun.py[line:37] INFO 跳过
+2020-04-26 11:58:07,908 loginView.py[line:28] INFO 开始登录
+2020-04-26 11:58:07,909 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-26 11:58:09,869 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-26 11:58:12,130 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 11:58:13,988 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 11:58:13,988 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 11:58:16,906 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 11:58:22,911 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 11:58:22,911 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 11:58:23,422 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 11:59:52,022 run.py[line:27] INFO 测试开始
+2020-04-26 11:59:52,023 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 11:59:52,025 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:00:13,467 testLogin.py[line:13] INFO 测试登录第一个账户
+2020-04-26 12:00:13,468 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 12:00:13,471 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 12:00:14,430 commonFun.py[line:27] INFO 取消升级
+2020-04-26 12:00:14,479 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 12:00:15,243 commonFun.py[line:37] INFO 跳过
+2020-04-26 12:00:15,298 loginView.py[line:28] INFO 开始登录
+2020-04-26 12:00:15,298 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-26 12:00:18,637 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-26 12:00:20,357 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 12:00:21,414 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 12:00:21,415 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 12:00:23,780 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 12:00:26,871 loginView.py[line:59] INFO 登陆成功
+2020-04-26 12:00:26,871 loginView.py[line:64] INFO 退出登录
+2020-04-26 12:00:31,431 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 12:00:34,576 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:00:34,580 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:00:56,774 testLogin.py[line:25] INFO 测试登录第二个账户
+2020-04-26 12:00:56,775 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 12:00:56,775 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 12:00:57,680 commonFun.py[line:27] INFO 取消升级
+2020-04-26 12:00:57,718 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 12:00:58,512 commonFun.py[line:37] INFO 跳过
+2020-04-26 12:00:58,591 loginView.py[line:28] INFO 开始登录
+2020-04-26 12:00:58,592 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 12:01:01,628 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 12:01:03,527 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 12:01:04,558 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 12:01:04,559 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 12:01:07,522 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 12:01:13,585 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 12:01:13,585 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 12:01:14,060 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 12:01:17,303 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:01:17,310 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:01:39,646 testLogin.py[line:33] INFO 测试登录第三个账户
+2020-04-26 12:01:39,646 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 12:01:39,647 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 12:01:40,502 commonFun.py[line:27] INFO 取消升级
+2020-04-26 12:01:40,541 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 12:01:40,702 commonFun.py[line:37] INFO 跳过
+2020-04-26 12:01:41,340 loginView.py[line:28] INFO 开始登录
+2020-04-26 12:01:41,340 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-26 12:01:43,582 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-26 12:01:45,654 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 12:01:47,578 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 12:01:47,579 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 12:01:50,072 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 12:01:56,062 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 12:01:56,062 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 12:01:56,440 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 12:17:03,478 run.py[line:27] INFO 测试开始
+2020-04-26 12:17:03,478 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:17:03,480 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:17:28,312 testLogin.py[line:13] INFO 测试登录第一个账户
+2020-04-26 12:17:28,313 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 12:17:28,318 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 12:17:30,365 commonFun.py[line:25] INFO 没有找到取消按钮
+2020-04-26 12:17:30,366 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 12:17:32,757 commonFun.py[line:35] INFO 没有找到跳过按钮
+2020-04-26 12:17:32,758 loginView.py[line:28] INFO 开始登录
+2020-04-26 12:17:32,758 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-26 12:17:35,066 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 12:17:38,315 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:17:38,322 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:18:03,492 testLogin.py[line:25] INFO 测试登录第二个账户
+2020-04-26 12:18:03,493 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 12:18:03,493 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 12:18:05,984 commonFun.py[line:25] INFO 没有找到取消按钮
+2020-04-26 12:18:05,984 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 12:18:08,618 commonFun.py[line:35] INFO 没有找到跳过按钮
+2020-04-26 12:18:08,618 loginView.py[line:28] INFO 开始登录
+2020-04-26 12:18:08,619 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 12:18:10,976 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 12:18:14,207 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:18:14,214 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:21:44,840 run.py[line:27] INFO 测试开始
+2020-04-26 12:21:44,840 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:21:44,842 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:22:16,406 run.py[line:27] INFO 测试开始
+2020-04-26 12:22:16,407 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:22:16,408 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:22:38,498 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 12:22:38,499 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 12:22:38,504 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 12:22:39,291 commonFun.py[line:27] INFO 取消升级
+2020-04-26 12:22:39,338 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 12:22:40,111 commonFun.py[line:37] INFO 跳过
+2020-04-26 12:22:40,209 loginView.py[line:28] INFO 开始登录
+2020-04-26 12:22:40,210 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 12:22:42,469 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 12:22:44,458 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 12:22:47,459 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 12:22:47,460 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 12:22:49,977 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 12:22:55,025 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 12:22:55,026 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 12:22:55,484 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 12:27:59,137 run.py[line:27] INFO 测试开始
+2020-04-26 12:27:59,138 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:27:59,139 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:28:19,879 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 12:28:19,879 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 12:28:19,882 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 12:28:21,326 commonFun.py[line:27] INFO 取消升级
+2020-04-26 12:28:21,397 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 12:28:21,539 commonFun.py[line:37] INFO 跳过
+2020-04-26 12:28:22,135 loginView.py[line:28] INFO 开始登录
+2020-04-26 12:28:22,136 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 12:28:25,605 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 12:28:27,477 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 12:28:28,581 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 12:28:28,581 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 12:28:31,488 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 12:28:36,494 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 12:28:36,494 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 12:28:36,906 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 12:32:04,389 run.py[line:27] INFO 测试开始
+2020-04-26 12:32:04,389 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:32:04,391 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:32:25,182 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 12:32:25,183 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 12:32:25,188 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 12:32:26,059 commonFun.py[line:27] INFO 取消升级
+2020-04-26 12:32:26,108 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 12:32:26,847 commonFun.py[line:37] INFO 跳过
+2020-04-26 12:32:26,898 loginView.py[line:28] INFO 开始登录
+2020-04-26 12:32:26,898 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 12:32:29,267 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 12:32:31,294 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 12:32:32,339 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 12:32:32,340 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 12:32:35,285 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 12:32:39,305 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 12:32:39,305 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 12:32:39,786 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 12:33:58,397 run.py[line:27] INFO 测试开始
+2020-04-26 12:33:58,397 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:33:58,399 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:34:19,416 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 12:34:19,416 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 12:34:19,419 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 12:34:20,456 commonFun.py[line:27] INFO 取消升级
+2020-04-26 12:34:20,484 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 12:34:20,774 commonFun.py[line:37] INFO 跳过
+2020-04-26 12:34:21,249 loginView.py[line:28] INFO 开始登录
+2020-04-26 12:34:21,250 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 12:34:23,684 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 12:34:25,710 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 12:34:26,744 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 12:34:26,744 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 12:34:29,715 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 12:34:34,727 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 12:34:34,727 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 12:34:35,214 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 12:37:56,442 run.py[line:27] INFO 测试开始
+2020-04-26 12:37:56,442 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:37:56,444 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:38:17,558 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 12:38:17,558 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 12:38:17,561 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 12:38:18,432 commonFun.py[line:27] INFO 取消升级
+2020-04-26 12:38:18,478 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 12:38:19,217 commonFun.py[line:37] INFO 跳过
+2020-04-26 12:38:19,260 loginView.py[line:28] INFO 开始登录
+2020-04-26 12:38:19,260 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 12:38:21,460 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 12:38:24,543 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 12:38:25,663 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 12:38:25,664 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 12:38:28,509 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 12:38:33,557 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 12:38:33,557 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 12:38:34,019 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 12:39:16,499 run.py[line:27] INFO 测试开始
+2020-04-26 12:39:16,499 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:39:16,501 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:39:38,463 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 12:39:38,464 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 12:39:38,469 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 12:39:39,245 commonFun.py[line:27] INFO 取消升级
+2020-04-26 12:39:39,289 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 12:39:40,030 commonFun.py[line:37] INFO 跳过
+2020-04-26 12:39:40,088 loginView.py[line:28] INFO 开始登录
+2020-04-26 12:39:40,088 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 12:39:41,759 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 12:39:43,750 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 12:39:44,861 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 12:39:44,862 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 12:39:47,728 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 12:39:51,802 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 12:39:51,803 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 12:39:52,272 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 12:53:08,891 run.py[line:27] INFO 测试开始
+2020-04-26 12:53:08,892 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 12:53:08,893 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 12:53:33,508 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 12:53:33,508 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 12:53:33,511 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 12:53:35,878 commonFun.py[line:25] INFO 没有找到取消按钮
+2020-04-26 12:53:35,878 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 12:53:38,196 commonFun.py[line:35] INFO 没有找到跳过按钮
+2020-04-26 12:53:38,196 loginView.py[line:28] INFO 开始登录
+2020-04-26 12:53:38,197 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 12:53:40,541 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:02:15,060 run.py[line:27] INFO 测试开始
+2020-04-26 13:02:15,060 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:02:15,063 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 13:02:36,720 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 13:02:36,721 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 13:02:36,723 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 13:02:37,982 commonFun.py[line:27] INFO 取消升级
+2020-04-26 13:02:38,066 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 13:02:38,829 commonFun.py[line:37] INFO 跳过
+2020-04-26 13:02:38,872 loginView.py[line:28] INFO 开始登录
+2020-04-26 13:02:38,873 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 13:02:41,024 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 13:02:42,962 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 13:02:44,025 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 13:02:44,025 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 13:02:46,991 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 13:02:52,042 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 13:02:52,042 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 13:02:52,512 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:03:35,583 run.py[line:27] INFO 测试开始
+2020-04-26 13:03:35,583 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:03:35,585 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 13:03:57,261 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 13:03:57,262 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 13:03:57,264 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 13:03:58,126 commonFun.py[line:27] INFO 取消升级
+2020-04-26 13:03:58,171 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 13:03:58,916 commonFun.py[line:37] INFO 跳过
+2020-04-26 13:03:58,984 loginView.py[line:28] INFO 开始登录
+2020-04-26 13:03:58,984 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 13:04:02,351 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 13:04:04,233 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 13:04:05,293 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 13:04:05,294 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 13:04:08,278 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 13:04:13,289 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 13:04:13,290 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 13:04:13,776 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:13:21,842 run.py[line:27] INFO 测试开始
+2020-04-26 13:13:21,842 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:13:21,844 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 13:13:42,286 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 13:13:42,286 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 13:13:42,291 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 13:13:43,135 commonFun.py[line:27] INFO 取消升级
+2020-04-26 13:13:43,178 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 13:13:43,917 commonFun.py[line:37] INFO 跳过
+2020-04-26 13:13:43,954 loginView.py[line:28] INFO 开始登录
+2020-04-26 13:13:43,954 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 13:13:47,149 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 13:13:49,065 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 13:13:50,052 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 13:13:50,052 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 13:13:53,026 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 13:13:58,124 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 13:13:58,125 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 13:13:58,588 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:15:40,985 run.py[line:27] INFO 测试开始
+2020-04-26 13:15:40,985 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:15:40,987 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 13:16:01,569 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 13:16:01,570 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 13:16:01,575 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 13:16:02,864 commonFun.py[line:27] INFO 取消升级
+2020-04-26 13:16:02,942 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 13:16:03,116 commonFun.py[line:37] INFO 跳过
+2020-04-26 13:16:03,718 loginView.py[line:28] INFO 开始登录
+2020-04-26 13:16:03,718 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 13:16:05,998 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 13:16:07,614 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 13:16:08,608 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 13:16:08,608 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 13:16:11,482 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 13:16:16,546 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 13:16:16,546 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 13:16:17,023 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:17:14,232 run.py[line:27] INFO 测试开始
+2020-04-26 13:17:14,233 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:17:14,236 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 13:17:35,244 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 13:17:35,244 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 13:17:35,246 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 13:17:36,185 commonFun.py[line:27] INFO 取消升级
+2020-04-26 13:17:36,235 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 13:17:36,995 commonFun.py[line:37] INFO 跳过
+2020-04-26 13:17:37,025 loginView.py[line:28] INFO 开始登录
+2020-04-26 13:17:37,025 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 13:17:38,781 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 13:17:40,873 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 13:17:41,875 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 13:17:41,875 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 13:17:45,001 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 13:17:49,884 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 13:17:49,885 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 13:17:50,367 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:20:29,934 run.py[line:27] INFO 测试开始
+2020-04-26 13:20:29,934 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:20:29,937 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 13:20:50,762 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 13:20:50,762 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 13:20:50,765 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 13:20:52,523 commonFun.py[line:27] INFO 取消升级
+2020-04-26 13:20:52,606 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 13:20:53,374 commonFun.py[line:37] INFO 跳过
+2020-04-26 13:20:53,424 loginView.py[line:28] INFO 开始登录
+2020-04-26 13:20:53,424 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 13:20:55,394 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 13:20:57,449 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 13:20:58,457 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 13:20:58,457 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 13:21:01,407 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 13:21:06,508 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 13:21:06,508 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 13:21:06,977 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:23:06,741 run.py[line:27] INFO 测试开始
+2020-04-26 13:23:06,742 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:23:06,744 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 13:23:27,582 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 13:23:27,582 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 13:23:27,584 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 13:23:28,479 commonFun.py[line:27] INFO 取消升级
+2020-04-26 13:23:28,525 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 13:23:28,681 commonFun.py[line:37] INFO 跳过
+2020-04-26 13:23:29,313 loginView.py[line:28] INFO 开始登录
+2020-04-26 13:23:29,313 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 13:23:32,087 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 13:23:33,957 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 13:23:35,028 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 13:23:35,029 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 13:23:38,021 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 13:23:44,014 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 13:23:44,014 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 13:23:44,490 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:27:28,723 run.py[line:27] INFO 测试开始
+2020-04-26 13:27:28,724 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:27:28,726 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 13:27:49,496 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 13:27:49,496 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 13:27:49,501 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 13:27:51,423 commonFun.py[line:27] INFO 取消升级
+2020-04-26 13:27:51,473 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 13:27:52,307 commonFun.py[line:37] INFO 跳过
+2020-04-26 13:27:52,343 loginView.py[line:28] INFO 开始登录
+2020-04-26 13:27:52,343 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 13:27:53,975 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 13:27:55,829 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 13:27:56,881 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 13:27:56,881 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 13:27:58,903 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 13:28:03,909 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 13:28:03,909 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 13:28:04,351 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:39:50,212 run.py[line:27] INFO 测试开始
+2020-04-26 13:39:50,212 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:39:50,214 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 13:40:15,210 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 13:40:15,211 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 13:40:15,214 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 13:40:16,264 commonFun.py[line:27] INFO 取消升级
+2020-04-26 13:40:16,313 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 13:40:17,054 commonFun.py[line:37] INFO 跳过
+2020-04-26 13:40:17,098 loginView.py[line:28] INFO 开始登录
+2020-04-26 13:40:17,099 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 13:40:20,399 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 13:40:22,302 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 13:40:23,395 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 13:40:23,396 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 13:40:26,330 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 13:40:32,346 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 13:40:32,347 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 13:40:32,829 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:41:54,027 run.py[line:27] INFO 测试开始
+2020-04-26 13:41:54,027 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:41:54,029 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 13:42:14,591 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 13:42:14,592 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 13:42:14,593 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 13:42:15,574 commonFun.py[line:27] INFO 取消升级
+2020-04-26 13:42:15,612 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 13:42:16,363 commonFun.py[line:37] INFO 跳过
+2020-04-26 13:42:16,434 loginView.py[line:28] INFO 开始登录
+2020-04-26 13:42:16,434 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 13:42:18,677 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 13:42:20,724 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 13:42:23,672 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 13:42:23,672 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 13:42:25,734 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 13:42:31,722 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 13:42:31,722 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 13:42:32,190 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:44:46,705 run.py[line:27] INFO 测试开始
+2020-04-26 13:44:46,705 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:44:46,707 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 13:45:07,473 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 13:45:07,473 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 13:45:07,475 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 13:45:08,875 commonFun.py[line:27] INFO 取消升级
+2020-04-26 13:45:08,910 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 13:45:09,189 commonFun.py[line:37] INFO 跳过
+2020-04-26 13:45:09,650 loginView.py[line:28] INFO 开始登录
+2020-04-26 13:45:09,651 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 13:45:11,242 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 13:45:13,294 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 13:45:18,257 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 13:45:18,257 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 13:45:20,318 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 13:45:25,345 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 13:45:25,346 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 13:45:25,804 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:47:24,503 run.py[line:27] INFO 测试开始
+2020-04-26 13:47:24,504 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:47:24,506 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 13:47:45,136 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 13:47:45,136 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 13:47:45,137 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 13:47:46,085 commonFun.py[line:27] INFO 取消升级
+2020-04-26 13:47:46,116 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 13:47:46,398 commonFun.py[line:37] INFO 跳过
+2020-04-26 13:47:46,901 loginView.py[line:28] INFO 开始登录
+2020-04-26 13:47:46,901 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 13:47:49,997 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 13:47:51,858 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 13:47:52,925 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 13:47:52,925 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 13:47:54,973 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 13:48:00,007 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 13:48:00,007 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 13:48:00,479 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 13:59:40,094 run.py[line:27] INFO 测试开始
+2020-04-26 13:59:40,094 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 13:59:40,096 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:00:04,619 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:00:04,619 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:00:04,625 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:00:06,726 commonFun.py[line:25] INFO 没有找到取消按钮
+2020-04-26 14:00:06,726 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:00:09,135 commonFun.py[line:35] INFO 没有找到跳过按钮
+2020-04-26 14:00:09,135 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:00:09,135 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:00:11,506 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:01:51,726 run.py[line:27] INFO 测试开始
+2020-04-26 14:01:51,726 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:01:51,728 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:02:16,137 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:02:16,138 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:02:16,140 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:02:18,436 commonFun.py[line:25] INFO 没有找到取消按钮
+2020-04-26 14:02:18,437 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:02:20,844 commonFun.py[line:35] INFO 没有找到跳过按钮
+2020-04-26 14:02:20,845 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:02:20,845 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:02:23,268 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:03:19,488 run.py[line:27] INFO 测试开始
+2020-04-26 14:03:19,489 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:03:19,490 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:03:43,744 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:03:43,744 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:03:43,748 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:03:46,092 commonFun.py[line:25] INFO 没有找到取消按钮
+2020-04-26 14:03:46,092 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:03:48,400 commonFun.py[line:35] INFO 没有找到跳过按钮
+2020-04-26 14:03:48,400 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:03:48,401 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:03:50,734 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:05:20,533 run.py[line:27] INFO 测试开始
+2020-04-26 14:05:20,534 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:05:20,536 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:05:45,076 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:05:45,077 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:05:45,080 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:05:47,589 commonFun.py[line:25] INFO 没有找到取消按钮
+2020-04-26 14:05:47,589 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:05:49,907 commonFun.py[line:35] INFO 没有找到跳过按钮
+2020-04-26 14:05:49,908 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:05:49,908 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:05:52,212 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:06:28,352 run.py[line:27] INFO 测试开始
+2020-04-26 14:06:28,352 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:06:28,354 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:06:53,308 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:06:53,309 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:06:53,311 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:06:54,839 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:07:02,025 run.py[line:27] INFO 测试开始
+2020-04-26 14:07:02,025 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:07:02,027 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:07:22,940 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:07:22,940 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:07:22,943 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:07:23,853 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:07:23,888 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:07:24,646 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:07:24,705 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:07:24,706 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:07:26,912 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 14:07:29,186 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:07:30,302 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:07:30,302 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:07:33,213 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:07:38,994 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 14:07:38,995 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 14:07:39,426 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:11:17,666 run.py[line:27] INFO 测试开始
+2020-04-26 14:11:17,667 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:11:17,669 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:11:38,200 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:11:38,200 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:11:38,201 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:11:39,207 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:11:39,245 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:11:39,995 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:11:40,048 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:11:40,048 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:11:41,035 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 14:11:42,696 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:11:45,237 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:11:45,237 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:11:48,130 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:11:54,213 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 14:11:54,213 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 14:11:54,631 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:17:14,876 run.py[line:27] INFO 测试开始
+2020-04-26 14:17:14,876 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:17:14,878 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:17:35,734 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:17:35,734 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:17:35,736 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:17:36,953 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:17:37,052 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:17:37,880 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:17:37,931 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:17:37,932 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:17:42,033 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 14:17:45,883 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:17:48,164 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:17:48,164 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:17:50,932 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:17:56,935 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 14:17:56,936 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 14:17:57,349 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:22:58,972 run.py[line:27] INFO 测试开始
+2020-04-26 14:22:58,972 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:22:58,974 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:23:19,647 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:23:19,647 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:23:19,652 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:23:20,564 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:23:20,609 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:23:21,385 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:23:21,458 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:23:21,459 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:23:23,981 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 14:23:25,942 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:23:27,017 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:23:27,017 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:23:29,979 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:23:36,085 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 14:23:36,086 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 14:23:36,551 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:25:23,285 run.py[line:27] INFO 测试开始
+2020-04-26 14:25:23,286 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:25:23,287 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:25:44,452 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:25:44,452 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:25:44,454 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:25:45,520 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:25:45,560 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:25:46,304 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:25:46,347 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:25:46,347 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:25:50,537 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 14:25:52,500 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:25:53,516 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:25:53,516 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:25:56,500 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:26:02,504 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 14:26:02,504 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 14:26:03,006 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:38:09,073 run.py[line:27] INFO 测试开始
+2020-04-26 14:38:09,073 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:38:09,075 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:38:29,783 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:38:29,784 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:38:29,785 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:38:31,224 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:38:31,288 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:38:32,075 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:38:32,142 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:38:32,143 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:38:33,824 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 14:38:35,875 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:38:36,912 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:38:36,912 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:38:39,899 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:38:44,912 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 14:38:44,912 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 14:38:45,342 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:42:41,938 run.py[line:27] INFO 测试开始
+2020-04-26 14:42:41,938 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:42:41,940 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:43:02,851 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:43:02,851 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:43:02,853 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:43:04,022 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:43:04,063 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:43:04,349 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:43:04,833 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:43:04,834 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:43:06,730 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 14:43:08,742 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:43:09,784 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:43:09,784 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:43:12,298 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:43:17,764 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 14:43:17,764 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 14:43:18,181 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:43:21,393 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:43:21,400 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:43:43,205 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-26 14:43:43,205 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:43:43,206 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:43:44,120 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:43:44,166 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:43:44,946 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:43:44,998 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:43:44,998 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-26 14:43:47,967 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-26 14:43:49,867 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:43:50,945 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:43:50,946 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:43:53,831 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:43:58,922 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 14:43:58,922 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 14:43:59,386 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:45:05,281 run.py[line:27] INFO 测试开始
+2020-04-26 14:45:05,282 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:45:05,284 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:47:53,938 run.py[line:27] INFO 测试开始
+2020-04-26 14:47:53,938 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:47:53,940 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:48:14,607 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-26 14:48:14,608 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:48:14,611 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:48:15,978 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:48:16,062 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:48:16,882 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:48:16,933 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:48:16,933 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-26 14:48:18,809 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-26 14:48:20,779 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:48:21,877 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:48:21,878 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:48:24,204 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:48:27,227 loginView.py[line:59] INFO 登陆成功
+2020-04-26 14:48:27,227 commonFun.py[line:97] INFO 获取“登陆成功”屏幕截图
+2020-04-26 14:48:27,657 loginView.py[line:65] INFO 退出登录
+2020-04-26 14:48:32,860 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:48:36,077 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:48:36,085 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:48:58,218 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:48:58,219 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:48:58,219 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:48:59,100 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:48:59,137 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:48:59,898 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:48:59,975 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:48:59,975 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:49:01,920 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 14:49:03,957 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:49:05,039 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:49:05,040 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:49:07,993 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:49:13,950 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 14:49:13,950 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 14:49:14,416 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:49:17,632 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:49:17,635 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:49:39,477 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-26 14:49:39,477 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:49:39,478 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:49:40,404 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:49:40,451 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:49:40,740 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:49:41,233 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:49:41,233 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-26 14:49:43,083 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-26 14:49:45,030 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:49:46,102 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:49:46,102 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:49:49,074 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:49:55,079 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 14:49:55,080 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 14:49:55,572 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:56:26,224 run.py[line:27] INFO 测试开始
+2020-04-26 14:56:26,225 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:56:26,227 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:56:47,014 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-26 14:56:47,014 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:56:47,020 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:56:47,892 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:56:47,941 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:56:48,712 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:56:48,763 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:56:48,763 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-26 14:56:51,244 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-26 14:56:53,297 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:56:54,509 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:56:54,510 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:56:56,886 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:57:00,796 loginView.py[line:59] INFO 登陆成功
+2020-04-26 14:57:00,797 commonFun.py[line:97] INFO 获取“登陆成功”屏幕截图
+2020-04-26 14:57:01,233 loginView.py[line:65] INFO 退出登录
+2020-04-26 14:57:05,320 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:57:08,557 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:57:08,564 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:57:30,211 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 14:57:30,211 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:57:30,212 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:57:31,120 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:57:31,166 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:57:31,907 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:57:31,955 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:57:31,955 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 14:57:35,393 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 14:57:37,374 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:57:38,620 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:57:38,620 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:57:41,401 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:57:47,403 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 14:57:47,404 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 14:57:47,821 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 14:57:51,065 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 14:57:51,072 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 14:58:12,912 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-26 14:58:12,912 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 14:58:12,913 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 14:58:13,855 commonFun.py[line:27] INFO 取消升级
+2020-04-26 14:58:13,904 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 14:58:14,059 commonFun.py[line:37] INFO 跳过
+2020-04-26 14:58:14,697 loginView.py[line:28] INFO 开始登录
+2020-04-26 14:58:14,698 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-26 14:58:16,478 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-26 14:58:18,509 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 14:58:19,801 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 14:58:19,801 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 14:58:22,545 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 14:58:27,571 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 14:58:27,571 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 14:58:28,061 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 15:00:25,611 run.py[line:27] INFO 测试开始
+2020-04-26 15:00:25,611 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 15:00:25,614 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 15:00:46,087 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-26 15:00:46,087 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 15:00:46,089 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 15:00:47,054 commonFun.py[line:27] INFO 取消升级
+2020-04-26 15:00:47,102 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 15:00:47,841 commonFun.py[line:37] INFO 跳过
+2020-04-26 15:00:47,882 loginView.py[line:28] INFO 开始登录
+2020-04-26 15:00:47,883 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-26 15:00:51,114 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-26 15:00:53,010 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 15:00:54,069 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 15:00:54,070 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 15:00:56,355 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 15:01:00,407 loginView.py[line:59] INFO 登陆成功
+2020-04-26 15:01:00,408 commonFun.py[line:97] INFO 获取“登陆成功”屏幕截图
+2020-04-26 15:01:00,879 loginView.py[line:65] INFO 退出登录
+2020-04-26 15:01:05,350 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 15:01:08,581 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 15:01:08,590 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 15:01:30,736 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 15:01:30,737 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 15:01:30,739 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 15:01:31,550 commonFun.py[line:27] INFO 取消升级
+2020-04-26 15:01:31,596 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 15:01:31,742 commonFun.py[line:37] INFO 跳过
+2020-04-26 15:01:32,380 loginView.py[line:28] INFO 开始登录
+2020-04-26 15:01:32,381 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 15:01:34,085 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 15:01:36,133 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 15:01:37,222 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 15:01:37,222 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 15:01:40,363 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 15:01:46,169 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 15:01:46,170 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 15:01:46,641 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 15:01:49,873 myunit.py[line:9] INFO ======开始测试======
+2020-04-26 15:01:49,881 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 15:02:11,597 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-26 15:02:11,598 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 15:02:11,599 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 15:02:12,568 commonFun.py[line:27] INFO 取消升级
+2020-04-26 15:02:12,615 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 15:02:13,399 commonFun.py[line:37] INFO 跳过
+2020-04-26 15:02:13,443 loginView.py[line:28] INFO 开始登录
+2020-04-26 15:02:13,444 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-26 15:02:15,475 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-26 15:02:17,496 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 15:02:18,551 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 15:02:18,552 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 15:02:21,275 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 15:02:25,821 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 15:02:25,822 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 15:02:26,305 myunit.py[line:14] INFO ======测试结束======
+2020-04-26 15:22:40,989 run.py[line:27] INFO 测试开始
+2020-04-26 15:22:40,989 myunit.py[line:10] INFO ======执行用例======
+2020-04-26 15:22:40,991 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 15:23:05,328 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-26 15:23:05,329 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 15:23:05,330 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 15:23:07,737 commonFun.py[line:25] INFO 没有找到取消按钮
+2020-04-26 15:23:07,738 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 15:23:10,081 commonFun.py[line:35] INFO 没有找到跳过按钮
+2020-04-26 15:23:10,082 loginView.py[line:28] INFO 开始登录
+2020-04-26 15:23:10,083 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-26 15:23:12,474 myunit.py[line:15] INFO ======结束用例======
+2020-04-26 15:23:15,770 myunit.py[line:10] INFO ======执行用例======
+2020-04-26 15:23:15,774 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 15:23:37,590 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-26 15:23:37,591 commonFun.py[line:114] INFO 获取csv数据
+2020-04-26 15:23:37,591 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-26 15:23:38,414 commonFun.py[line:27] INFO 取消升级
+2020-04-26 15:23:38,463 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-26 15:23:39,203 commonFun.py[line:37] INFO 跳过
+2020-04-26 15:23:39,238 loginView.py[line:28] INFO 开始登录
+2020-04-26 15:23:39,239 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-26 15:23:41,304 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-26 15:23:43,274 loginView.py[line:33] INFO 点击登录按钮
+2020-04-26 15:23:44,339 loginView.py[line:47] INFO 检查登录状态
+2020-04-26 15:23:44,340 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-26 15:23:47,248 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-26 15:23:51,322 loginView.py[line:55] ERROR 登陆失败
+2020-04-26 15:23:51,323 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-26 15:23:51,749 myunit.py[line:15] INFO ======结束用例======
+2020-04-26 15:23:54,929 myunit.py[line:10] INFO ======执行用例======
+2020-04-26 15:23:54,937 desiredCaps.py[line:33] INFO 启动APP
+2020-04-26 15:24:37,008 run.py[line:29] INFO 测试结束
+2020-04-26 16:10:17,377 desiredCaps.py[line:33] INFO 启动APP
+2020-04-27 10:07:04,121 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:07:38,364 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:11:44,749 desiredCaps.py[line:37] INFO 启动APP
+2020-04-27 10:12:07,012 desiredCaps.py[line:37] INFO 启动APP
+2020-04-27 10:12:45,455 desiredCaps.py[line:37] INFO 启动APP
+2020-04-27 10:14:29,485 desiredCaps.py[line:37] INFO 启动APP
+2020-04-27 10:14:52,525 desiredCaps.py[line:37] INFO 启动APP
+2020-04-27 10:17:57,512 desiredCaps.py[line:37] INFO 启动APP
+2020-04-27 10:18:19,307 desiredCaps.py[line:37] INFO 启动APP
+2020-04-27 10:31:01,115 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:31:20,903 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:32:26,616 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:33:14,589 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:33:27,424 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:33:46,042 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:34:13,711 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:34:36,012 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:35:52,094 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:36:12,871 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:37:31,842 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:37:53,255 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 10:38:15,203 desiredCaps.py[line:36] INFO 启动APP
+2020-04-27 11:02:51,946 desiredCaps.py[line:40] INFO 启动APP
+2020-04-27 11:02:51,951 desiredCaps.py[line:40] INFO 启动APP
+2020-04-27 11:02:51,967 desiredCaps.py[line:40] INFO 启动APP
+2020-04-27 11:23:12,844 desiredCaps.py[line:39] INFO 启动APP
+2020-04-27 11:23:13,041 desiredCaps.py[line:39] INFO 启动APP
+2020-04-27 11:23:13,065 desiredCaps.py[line:39] INFO 启动APP
+2020-04-27 11:25:29,448 desiredCaps.py[line:39] INFO 启动APP
+2020-04-27 11:25:29,455 desiredCaps.py[line:39] INFO 启动APP
+2020-04-27 11:25:29,456 desiredCaps.py[line:39] INFO 启动APP
+2020-04-27 11:29:41,936 desiredCaps.py[line:39] INFO 启动APP
+2020-04-27 11:29:41,936 desiredCaps.py[line:39] INFO 启动APP
+2020-04-27 11:29:41,951 desiredCaps.py[line:39] INFO 启动APP
+2020-04-27 15:29:15,026 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:29:15,028 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:29:15,028 appiumDeviceSync.py[line:55] INFO Appium 4723 启动失败
+2020-04-27 15:29:15,028 desiredCaps.py[line:46] INFO 启动APP
+2020-04-27 15:30:13,947 run.py[line:31] INFO 测试开始
+2020-04-27 15:30:13,947 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 15:30:13,948 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:30:13,950 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:30:13,950 appiumDeviceSync.py[line:55] INFO Appium 4723 启动失败
+2020-04-27 15:30:13,950 desiredCaps.py[line:46] INFO 启动APP
+2020-04-27 15:30:36,053 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-27 15:30:36,053 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 15:30:36,055 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 15:30:36,968 commonFun.py[line:27] INFO 取消升级
+2020-04-27 15:30:37,009 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 15:30:37,842 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 15:30:41,041 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 15:30:41,047 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:30:41,053 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:30:41,053 appiumDeviceSync.py[line:55] INFO Appium 4723 启动失败
+2020-04-27 15:30:41,054 desiredCaps.py[line:46] INFO 启动APP
+2020-04-27 15:31:01,942 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-27 15:31:01,942 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 15:31:01,943 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 15:31:02,846 commonFun.py[line:27] INFO 取消升级
+2020-04-27 15:31:02,882 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 15:31:03,622 commonFun.py[line:37] INFO 跳过
+2020-04-27 15:31:03,663 loginView.py[line:28] INFO 开始登录
+2020-04-27 15:31:03,663 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-27 15:31:05,394 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-27 15:31:07,874 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 15:31:09,512 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 15:31:09,512 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 15:31:12,419 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 15:31:17,881 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 15:31:17,881 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 15:31:18,379 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 15:31:21,594 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 15:31:21,599 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:31:21,605 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:31:21,606 appiumDeviceSync.py[line:55] INFO Appium 4723 启动失败
+2020-04-27 15:31:21,606 desiredCaps.py[line:46] INFO 启动APP
+2020-04-27 15:31:43,634 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-27 15:31:43,634 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 15:31:43,635 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 15:31:44,548 commonFun.py[line:27] INFO 取消升级
+2020-04-27 15:31:44,574 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 15:31:44,855 commonFun.py[line:37] INFO 跳过
+2020-04-27 15:31:45,336 loginView.py[line:28] INFO 开始登录
+2020-04-27 15:31:45,336 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-27 15:31:50,014 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-27 15:31:52,539 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 15:31:53,551 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 15:31:53,551 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 15:31:56,549 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 15:32:01,544 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 15:32:01,544 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 15:32:02,002 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 15:32:05,235 run.py[line:34] INFO 测试结束
+2020-04-27 15:34:20,775 run.py[line:32] INFO 测试开始
+2020-04-27 15:34:20,776 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 15:34:20,777 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:34:20,777 appiumDeviceSync.py[line:55] INFO Appium 4723 启动失败
+2020-04-27 15:34:20,777 desiredCaps.py[line:45] INFO 启动APP
+2020-04-27 15:34:42,041 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-27 15:34:42,042 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 15:34:42,044 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 15:34:43,278 commonFun.py[line:27] INFO 取消升级
+2020-04-27 15:34:43,306 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 15:34:44,094 commonFun.py[line:37] INFO 跳过
+2020-04-27 15:34:44,143 loginView.py[line:28] INFO 开始登录
+2020-04-27 15:34:44,144 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-27 15:34:46,147 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-27 15:34:48,168 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 15:34:49,605 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 15:34:49,605 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 15:34:53,224 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 15:34:58,686 loginView.py[line:59] INFO 登陆成功
+2020-04-27 15:34:58,686 commonFun.py[line:97] INFO 获取“登陆成功”屏幕截图
+2020-04-27 15:34:59,137 loginView.py[line:65] INFO 退出登录
+2020-04-27 15:35:06,213 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 15:35:09,389 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 15:35:09,395 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:35:09,395 appiumDeviceSync.py[line:55] INFO Appium 4723 启动失败
+2020-04-27 15:35:09,396 desiredCaps.py[line:45] INFO 启动APP
+2020-04-27 15:35:31,512 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-27 15:35:31,512 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 15:35:31,513 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 15:35:32,413 commonFun.py[line:27] INFO 取消升级
+2020-04-27 15:35:32,463 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 15:35:33,215 commonFun.py[line:37] INFO 跳过
+2020-04-27 15:35:33,255 loginView.py[line:28] INFO 开始登录
+2020-04-27 15:35:33,255 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-27 15:35:36,278 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-27 15:35:38,308 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 15:35:40,314 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 15:35:40,315 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 15:35:43,332 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 15:35:49,340 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 15:35:49,340 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 15:35:49,762 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 15:35:52,999 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 15:35:53,005 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:35:53,005 appiumDeviceSync.py[line:55] INFO Appium 4723 启动失败
+2020-04-27 15:35:53,006 desiredCaps.py[line:45] INFO 启动APP
+2020-04-27 15:36:14,089 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-27 15:36:14,089 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 15:36:14,090 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 15:36:15,038 commonFun.py[line:27] INFO 取消升级
+2020-04-27 15:36:15,069 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 15:36:15,354 commonFun.py[line:37] INFO 跳过
+2020-04-27 15:36:15,850 loginView.py[line:28] INFO 开始登录
+2020-04-27 15:36:15,851 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-27 15:36:17,454 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-27 15:36:19,843 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 15:36:20,839 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 15:36:20,839 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 15:36:23,529 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 15:36:28,913 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 15:36:28,913 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 15:36:29,372 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 15:41:27,350 run.py[line:32] INFO 测试开始
+2020-04-27 15:41:27,350 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 15:41:27,351 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:41:27,351 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 15:41:48,223 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-27 15:41:48,223 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 15:41:48,226 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 15:41:49,121 commonFun.py[line:27] INFO 取消升级
+2020-04-27 15:41:49,155 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 15:41:49,441 commonFun.py[line:37] INFO 跳过
+2020-04-27 15:41:49,933 loginView.py[line:28] INFO 开始登录
+2020-04-27 15:41:49,933 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-27 15:41:51,821 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-27 15:41:53,738 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 15:41:54,809 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 15:41:54,809 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 15:41:57,210 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 15:42:00,993 loginView.py[line:59] INFO 登陆成功
+2020-04-27 15:42:00,993 commonFun.py[line:97] INFO 获取“登陆成功”屏幕截图
+2020-04-27 15:42:01,445 loginView.py[line:65] INFO 退出登录
+2020-04-27 15:42:04,787 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 15:42:07,946 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 15:42:07,949 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:42:07,950 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 15:42:29,770 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-27 15:42:29,770 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 15:42:29,771 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 15:42:31,895 commonFun.py[line:25] INFO 没有找到取消按钮
+2020-04-27 15:42:31,895 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 15:42:34,177 commonFun.py[line:35] INFO 没有找到跳过按钮
+2020-04-27 15:42:34,177 loginView.py[line:28] INFO 开始登录
+2020-04-27 15:42:34,178 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-27 15:42:36,456 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 15:42:39,661 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 15:42:39,663 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:42:39,664 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 15:43:01,670 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-27 15:43:01,670 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 15:43:01,671 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 15:43:02,631 commonFun.py[line:27] INFO 取消升级
+2020-04-27 15:43:02,669 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 15:43:02,809 commonFun.py[line:37] INFO 跳过
+2020-04-27 15:43:03,462 loginView.py[line:28] INFO 开始登录
+2020-04-27 15:43:03,463 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-27 15:43:05,936 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-27 15:43:06,987 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 15:43:10,340 appiumDeviceSync.py[line:29] INFO netstat -ano |findstr 4723
+2020-04-27 15:43:10,444 appiumDeviceSync.py[line:32] INFO   TCP    127.0.0.1:4723         0.0.0.0:0              LISTENING       2528
+  TCP    127.0.0.1:4723         127.0.0.1:56870        ESTABLISHED     2528
+  TCP    127.0.0.1:4723         127.0.0.1:57088        ESTABLISHED     2528
+  TCP    127.0.0.1:4723         127.0.0.1:57274        ESTABLISHED     2528
+  TCP    127.0.0.1:56863        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:56866        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:56869        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:56870        127.0.0.1:4723         ESTABLISHED     1480
+  TCP    127.0.0.1:57079        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:57083        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:57087        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:57088        127.0.0.1:4723         ESTABLISHED     1480
+  TCP    127.0.0.1:57269        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:57271        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:57273        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:57274        127.0.0.1:4723         ESTABLISHED     1480
+
+2020-04-27 15:43:10,444 appiumDeviceSync.py[line:40] INFO taskkilll -f -pid 2528
+2020-04-27 15:43:10,449 run.py[line:36] INFO 测试结束
+2020-04-27 15:43:44,435 run.py[line:32] INFO 测试开始
+2020-04-27 15:43:44,436 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 15:43:44,438 appiumDeviceSync.py[line:22] INFO 端口：4723 已启用
+2020-04-27 15:43:44,438 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:01:56,866 run.py[line:32] INFO 测试开始
+2020-04-27 16:01:56,867 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:01:57,874 appiumDeviceSync.py[line:20] INFO 端口：4723 可用
+2020-04-27 16:01:57,874 appiumDeviceSync.py[line:21] INFO [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+2020-04-27 16:01:57,875 appiumDeviceSync.py[line:54] INFO start /b appium -a127.0.0.1 -p 4723 -bp 4724 at Mon Apr 27 16:01:57 2020
+2020-04-27 16:01:57,900 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:10:52,074 run.py[line:32] INFO 测试开始
+2020-04-27 16:10:52,074 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:10:52,075 appiumDeviceSync.py[line:24] INFO 端口：4723 已启用
+2020-04-27 16:10:52,076 appiumDeviceSync.py[line:59] INFO Appium服务已启动 Port：4723
+2020-04-27 16:10:52,076 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:11:14,535 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:11:14,538 appiumDeviceSync.py[line:24] INFO 端口：4723 已启用
+2020-04-27 16:11:14,539 appiumDeviceSync.py[line:59] INFO Appium服务已启动 Port：4723
+2020-04-27 16:11:14,539 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:11:36,712 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:11:36,717 appiumDeviceSync.py[line:24] INFO 端口：4723 已启用
+2020-04-27 16:11:36,718 appiumDeviceSync.py[line:59] INFO Appium服务已启动 Port：4723
+2020-04-27 16:11:36,718 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:11:58,915 appiumDeviceSync.py[line:31] INFO netstat -ano |findstr 4723
+2020-04-27 16:11:58,992 appiumDeviceSync.py[line:34] INFO   TCP    127.0.0.1:4723         0.0.0.0:0              LISTENING       5836
+  TCP    127.0.0.1:4723         127.0.0.1:59557        TIME_WAIT       0
+  TCP    127.0.0.1:4723         127.0.0.1:59589        FIN_WAIT_2      5836
+  TCP    127.0.0.1:4723         127.0.0.1:59617        FIN_WAIT_2      5836
+  TCP    127.0.0.1:59551        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59553        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59556        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59582        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59585        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59588        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59589        127.0.0.1:4723         CLOSE_WAIT      9772
+  TCP    127.0.0.1:59610        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59613        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59616        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59617        127.0.0.1:4723         CLOSE_WAIT      9772
+
+2020-04-27 16:11:58,992 appiumDeviceSync.py[line:42] INFO taskkill -f -pid 5836
+2020-04-27 16:11:58,998 appiumDeviceSync.py[line:44] INFO 端口： 4723 已释放
+2020-04-27 16:11:58,998 run.py[line:36] INFO 测试结束
+2020-04-27 16:12:15,715 run.py[line:32] INFO 测试开始
+2020-04-27 16:12:15,716 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:12:16,719 appiumDeviceSync.py[line:20] INFO 端口：4723 可用
+2020-04-27 16:12:16,720 appiumDeviceSync.py[line:53] INFO 开始启动Appium服务: 
+ Host:127.0.0.1 Port:4723 BootStrap Port:4724
+2020-04-27 16:12:16,720 appiumDeviceSync.py[line:55] INFO start /b appium -a127.0.0.1 -p 4723 -bp 4724 at Mon Apr 27 16:12:16 2020
+2020-04-27 16:12:16,748 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:12:39,612 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-27 16:12:39,612 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:12:39,614 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:12:40,427 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:12:40,459 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:12:40,737 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:12:41,224 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:12:41,225 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-27 16:12:44,614 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-27 16:12:46,538 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:12:47,542 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:12:47,543 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:12:50,602 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:12:53,576 loginView.py[line:59] INFO 登陆成功
+2020-04-27 16:12:53,576 commonFun.py[line:97] INFO 获取“登陆成功”屏幕截图
+2020-04-27 16:12:53,996 loginView.py[line:65] INFO 退出登录
+2020-04-27 16:12:58,616 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:13:01,750 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:13:01,755 appiumDeviceSync.py[line:24] INFO 端口：4723 已启用
+2020-04-27 16:13:01,756 appiumDeviceSync.py[line:59] INFO Appium服务已启动 Port：4723
+2020-04-27 16:13:01,756 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:13:23,553 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-27 16:13:23,554 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:13:23,554 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:13:24,458 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:13:24,493 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:13:24,637 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:13:25,261 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:13:25,261 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-27 16:13:27,662 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-27 16:13:29,633 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:13:30,703 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:13:30,703 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:13:33,671 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:13:38,647 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 16:13:38,647 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 16:13:39,122 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:13:42,326 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:13:42,332 appiumDeviceSync.py[line:24] INFO 端口：4723 已启用
+2020-04-27 16:13:42,332 appiumDeviceSync.py[line:59] INFO Appium服务已启动 Port：4723
+2020-04-27 16:13:42,333 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:14:04,960 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-27 16:14:04,961 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:14:04,961 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:14:05,913 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:14:05,946 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:14:06,344 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:14:06,701 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:14:06,701 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-27 16:14:09,896 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-27 16:14:11,799 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:14:12,851 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:14:12,852 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:14:15,775 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:14:21,822 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 16:14:21,822 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 16:14:22,256 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:14:25,477 appiumDeviceSync.py[line:31] INFO netstat -ano |findstr 4723
+2020-04-27 16:14:25,627 appiumDeviceSync.py[line:34] INFO   TCP    127.0.0.1:4723         0.0.0.0:0              LISTENING       12428
+  TCP    127.0.0.1:4723         127.0.0.1:59675        ESTABLISHED     12428
+  TCP    127.0.0.1:4723         127.0.0.1:59869        ESTABLISHED     12428
+  TCP    127.0.0.1:4723         127.0.0.1:60062        ESTABLISHED     12428
+  TCP    127.0.0.1:59675        127.0.0.1:4723         ESTABLISHED     5848
+  TCP    127.0.0.1:59862        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59866        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59868        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59869        127.0.0.1:4723         ESTABLISHED     5848
+  TCP    127.0.0.1:60055        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:60057        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:60061        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:60062        127.0.0.1:4723         ESTABLISHED     5848
+
+2020-04-27 16:14:25,627 appiumDeviceSync.py[line:42] INFO taskkill -f -pid 12428
+2020-04-27 16:14:25,633 appiumDeviceSync.py[line:44] INFO 端口： 4723 已释放
+2020-04-27 16:14:25,633 run.py[line:36] INFO 测试结束
+2020-04-27 16:22:32,086 run.py[line:32] INFO 测试开始
+2020-04-27 16:22:32,086 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:22:33,088 appiumDeviceSync.py[line:51] INFO 开始启动Appium服务: Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:22:33,089 appiumDeviceSync.py[line:53] INFO start /b appium -a127.0.0.1 -p 4723 -bp 4724 at Mon Apr 27 16:22:33 2020
+2020-04-27 16:22:33,117 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:22:57,037 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-27 16:22:57,037 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:22:57,040 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:22:57,865 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:22:57,904 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:22:58,190 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:22:58,696 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:22:58,696 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-27 16:23:01,939 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-27 16:23:03,777 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:23:04,882 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:23:04,882 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:23:08,034 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:23:12,989 loginView.py[line:59] INFO 登陆成功
+2020-04-27 16:23:12,989 commonFun.py[line:97] INFO 获取“登陆成功”屏幕截图
+2020-04-27 16:23:13,448 loginView.py[line:65] INFO 退出登录
+2020-04-27 16:23:18,010 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:23:21,202 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:23:21,208 appiumDeviceSync.py[line:58] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:23:21,208 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:23:43,231 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-27 16:23:43,232 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:23:43,232 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:23:44,094 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:23:44,136 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:23:44,868 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:23:44,907 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:23:44,908 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-27 16:23:48,032 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-27 16:23:49,929 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:23:51,000 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:23:51,001 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:23:53,379 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:23:58,011 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 16:23:58,011 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 16:23:58,424 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:24:01,636 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:24:01,641 appiumDeviceSync.py[line:58] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:24:01,643 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:24:23,921 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-27 16:24:23,922 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:24:23,922 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:24:24,897 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:24:24,937 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:24:25,216 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:24:25,716 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:24:25,716 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-27 16:24:28,091 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-27 16:24:30,082 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:24:31,084 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:24:31,085 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:24:33,127 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:24:38,432 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 16:24:38,432 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 16:24:38,901 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:24:42,141 appiumDeviceSync.py[line:29] INFO netstat -ano |findstr 4723
+2020-04-27 16:24:42,238 appiumDeviceSync.py[line:32] INFO   TCP    127.0.0.1:4723         0.0.0.0:0              LISTENING       10292
+  TCP    127.0.0.1:4723         127.0.0.1:60833        ESTABLISHED     10292
+  TCP    127.0.0.1:4723         127.0.0.1:61031        ESTABLISHED     10292
+  TCP    127.0.0.1:4723         127.0.0.1:61226        ESTABLISHED     10292
+  TCP    127.0.0.1:60833        127.0.0.1:4723         ESTABLISHED     7232
+  TCP    127.0.0.1:61024        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:61028        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:61030        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:61031        127.0.0.1:4723         ESTABLISHED     7232
+  TCP    127.0.0.1:61218        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:61221        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:61225        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:61226        127.0.0.1:4723         ESTABLISHED     7232
+
+2020-04-27 16:24:42,238 appiumDeviceSync.py[line:40] INFO taskkill -f -pid 10292
+2020-04-27 16:24:42,243 appiumDeviceSync.py[line:42] INFO Appium服务已关闭
+2020-04-27 16:24:42,244 run.py[line:36] INFO 测试结束
+2020-04-27 16:34:07,320 run.py[line:32] INFO 测试开始
+2020-04-27 16:34:07,320 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:34:08,322 appiumDeviceSync.py[line:49] INFO 开始启动Appium服务: Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:34:08,322 appiumDeviceSync.py[line:51] INFO start /b appium -a127.0.0.1 -p 4723 -bp 4724 at Mon Apr 27 16:34:08 2020
+2020-04-27 16:34:08,341 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:34:32,480 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-27 16:34:32,480 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:34:32,482 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:34:33,499 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:34:33,544 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:34:33,824 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:34:34,309 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:34:34,310 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-27 16:34:37,531 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-27 16:34:39,431 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:34:40,481 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:34:40,481 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:34:42,900 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:34:46,747 loginView.py[line:59] INFO 登陆成功
+2020-04-27 16:34:46,747 commonFun.py[line:97] INFO 获取“登陆成功”屏幕截图
+2020-04-27 16:34:47,247 loginView.py[line:65] INFO 退出登录
+2020-04-27 16:34:51,702 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:34:54,942 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:34:54,944 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:35:16,742 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-27 16:35:16,742 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:35:16,742 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:35:17,653 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:35:17,684 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:35:18,425 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:35:18,461 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:35:18,462 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-27 16:35:21,733 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-27 16:35:23,535 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:35:24,615 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:35:24,616 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:35:27,565 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:35:32,546 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 16:35:32,547 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 16:35:33,002 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:35:36,195 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:35:36,201 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:35:58,470 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-27 16:35:58,470 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:35:58,470 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:35:59,411 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:35:59,454 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:35:59,879 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:36:00,237 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:36:00,237 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-27 16:36:02,654 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-27 16:36:04,690 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:36:05,872 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:36:05,873 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:36:07,904 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:36:12,977 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 16:36:12,977 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 16:36:13,425 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:36:16,639 appiumDeviceSync.py[line:27] INFO netstat -ano |findstr 4723
+2020-04-27 16:36:16,820 appiumDeviceSync.py[line:30] INFO   TCP    127.0.0.1:4723         0.0.0.0:0              LISTENING       13060
+  TCP    127.0.0.1:4723         127.0.0.1:62035        ESTABLISHED     13060
+  TCP    127.0.0.1:4723         127.0.0.1:62229        ESTABLISHED     13060
+  TCP    127.0.0.1:4723         127.0.0.1:62424        ESTABLISHED     13060
+  TCP    127.0.0.1:62035        127.0.0.1:4723         ESTABLISHED     12952
+  TCP    127.0.0.1:62222        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:62225        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:62228        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:62229        127.0.0.1:4723         ESTABLISHED     12952
+  TCP    127.0.0.1:62418        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:62421        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:62423        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:62424        127.0.0.1:4723         ESTABLISHED     12952
+
+2020-04-27 16:36:16,820 appiumDeviceSync.py[line:36] INFO 关闭Appium服务
+2020-04-27 16:36:16,820 appiumDeviceSync.py[line:38] INFO taskkill -f -pid 13060
+2020-04-27 16:36:16,825 appiumDeviceSync.py[line:40] INFO Appium服务已关闭
+2020-04-27 16:36:16,826 run.py[line:36] INFO 测试结束
+2020-04-27 16:39:07,108 run.py[line:32] INFO 测试开始
+2020-04-27 16:39:07,108 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:39:08,110 appiumDeviceSync.py[line:52] INFO 开始启动Appium服务: Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:39:08,110 appiumDeviceSync.py[line:54] INFO start /b appium -a127.0.0.1 -p 4723 -bp 4724 at Mon Apr 27 16:39:08 2020
+2020-04-27 16:39:08,126 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:39:31,613 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-27 16:39:31,613 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:39:31,614 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:39:32,569 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:39:32,607 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:39:33,370 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:39:33,445 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:39:33,445 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-27 16:39:36,600 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-27 16:39:38,518 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:39:39,543 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:39:39,544 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:39:41,890 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:39:44,993 loginView.py[line:59] INFO 登陆成功
+2020-04-27 16:39:44,993 commonFun.py[line:97] INFO 获取“登陆成功”屏幕截图
+2020-04-27 16:39:45,460 loginView.py[line:65] INFO 退出登录
+2020-04-27 16:39:50,829 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:39:54,023 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:39:54,029 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:40:15,898 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-27 16:40:15,899 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:40:15,899 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:40:16,861 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:40:16,896 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:40:17,631 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:40:17,697 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:40:17,698 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-27 16:40:20,857 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-27 16:40:22,855 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:40:23,617 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:40:23,617 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:40:25,631 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:40:29,928 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 16:40:29,929 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 16:40:30,387 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:40:33,591 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:40:33,593 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:40:55,509 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-27 16:40:55,510 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:40:55,510 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:40:56,400 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:40:56,433 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:40:57,186 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:40:57,216 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:40:57,217 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-27 16:40:59,040 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-27 16:41:00,752 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:41:01,757 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:41:01,757 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:41:04,031 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:41:09,243 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 16:41:09,244 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 16:41:09,727 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:41:46,332 run.py[line:32] INFO 测试开始
+2020-04-27 16:41:46,332 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:41:46,333 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:42:07,342 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-27 16:42:07,343 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:42:07,344 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:42:08,321 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:42:08,361 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:42:09,099 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:42:09,129 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:42:09,129 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-27 16:42:11,248 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-27 16:42:11,266 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:42:14,444 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:42:14,446 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:42:35,417 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-27 16:42:35,417 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:42:35,418 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:42:36,357 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:42:36,395 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:42:37,132 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:42:37,158 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:42:37,159 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-27 16:42:39,318 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-27 16:42:45,128 run.py[line:32] INFO 测试开始
+2020-04-27 16:42:45,128 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:42:45,129 appiumDeviceSync.py[line:59] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:42:45,129 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:43:12,354 run.py[line:32] INFO 测试开始
+2020-04-27 16:43:12,354 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:43:12,356 appiumDeviceSync.py[line:59] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:43:12,356 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:43:33,520 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-27 16:43:33,520 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:43:33,522 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:43:34,325 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:43:34,367 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:43:35,119 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:43:35,182 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:43:35,183 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-27 16:43:37,593 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-27 16:43:39,232 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:43:40,215 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:43:43,394 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:43:43,400 appiumDeviceSync.py[line:59] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:43:43,401 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:44:04,430 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-27 16:44:04,430 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:44:04,431 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:44:05,353 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:44:05,390 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:44:06,129 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:44:06,180 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:44:06,181 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-27 16:44:07,783 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:44:10,937 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:44:10,943 appiumDeviceSync.py[line:59] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:44:10,945 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:44:31,841 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-27 16:44:31,842 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:44:31,844 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:44:32,742 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:44:32,778 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:44:33,518 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:44:33,557 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:44:33,558 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-27 16:44:35,675 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-27 16:44:37,423 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:44:38,480 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:44:38,481 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:44:40,720 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:44:42,038 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:44:45,235 appiumDeviceSync.py[line:30] INFO netstat -ano |findstr 4723
+2020-04-27 16:44:45,353 appiumDeviceSync.py[line:33] INFO   TCP    127.0.0.1:4723         0.0.0.0:0              LISTENING       5212
+  TCP    127.0.0.1:4723         127.0.0.1:64074        ESTABLISHED     5212
+  TCP    127.0.0.1:4723         127.0.0.1:64275        ESTABLISHED     5212
+  TCP    127.0.0.1:4723         127.0.0.1:64474        ESTABLISHED     5212
+  TCP    127.0.0.1:63875        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:63877        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:64056        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:64065        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:64073        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:64074        127.0.0.1:4723         ESTABLISHED     10848
+  TCP    127.0.0.1:64267        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:64271        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:64274        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:64275        127.0.0.1:4723         ESTABLISHED     10848
+  TCP    127.0.0.1:64467        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:64470        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:64473        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:64474        127.0.0.1:4723         ESTABLISHED     10848
+  TCP    127.0.0.1:64676        127.0.0.1:4723         TIME_WAIT       0
+
+2020-04-27 16:44:45,355 appiumDeviceSync.py[line:39] INFO 关闭Appium服务
+2020-04-27 16:44:45,356 appiumDeviceSync.py[line:41] INFO taskkill -f -pid 5212
+2020-04-27 16:44:45,365 appiumDeviceSync.py[line:43] INFO Appium服务已关闭
+2020-04-27 16:44:45,365 run.py[line:36] INFO 测试结束
+2020-04-27 16:53:08,735 run.py[line:33] INFO 测试开始
+2020-04-27 16:53:08,736 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:53:09,738 appiumDeviceSync.py[line:52] INFO 开始启动Appium服务: Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:53:09,738 appiumDeviceSync.py[line:54] INFO 执行 start /b appium -a127.0.0.1 -p 4723 -bp 4724 命令
+2020-04-27 16:53:09,751 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:53:32,768 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-27 16:53:32,768 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:53:32,771 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:53:33,639 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:53:33,676 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:53:34,450 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:53:34,501 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:53:34,502 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-27 16:53:37,629 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-27 16:53:39,552 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:53:40,639 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:53:40,639 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:53:42,979 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:53:46,015 loginView.py[line:59] INFO 登陆成功
+2020-04-27 16:53:46,017 commonFun.py[line:97] INFO 获取“登陆成功”屏幕截图
+2020-04-27 16:53:46,469 loginView.py[line:65] INFO 退出登录
+2020-04-27 16:53:50,726 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:53:53,955 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:53:53,961 appiumDeviceSync.py[line:59] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:53:53,962 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:54:16,282 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-27 16:54:16,283 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:54:16,284 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:54:17,198 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:54:17,238 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:54:17,393 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:54:18,020 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:54:18,021 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-27 16:54:19,651 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-27 16:54:21,672 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:54:23,118 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:54:23,119 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:54:26,057 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:54:31,064 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 16:54:31,065 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 16:54:31,499 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:54:34,711 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:54:34,717 appiumDeviceSync.py[line:59] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:54:34,719 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:54:56,874 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-27 16:54:56,875 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:54:56,876 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:54:57,829 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:54:57,871 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:54:58,634 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:54:58,680 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:54:58,681 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-27 16:55:01,853 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-27 16:55:03,781 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:55:04,827 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:55:04,828 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:55:07,177 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:55:12,309 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 16:55:12,310 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 16:55:12,749 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:55:15,962 appiumDeviceSync.py[line:30] INFO netstat -ano |findstr 4723
+2020-04-27 16:55:16,094 appiumDeviceSync.py[line:33] INFO   TCP    127.0.0.1:4723         0.0.0.0:0              LISTENING       10600
+  TCP    127.0.0.1:4723         127.0.0.1:49259        ESTABLISHED     10600
+  TCP    127.0.0.1:4723         127.0.0.1:65244        ESTABLISHED     10600
+  TCP    127.0.0.1:4723         127.0.0.1:65443        ESTABLISHED     10600
+  TCP    127.0.0.1:49252        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:49255        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:49258        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:49259        127.0.0.1:4723         ESTABLISHED     9168
+  TCP    127.0.0.1:49468        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:65244        127.0.0.1:4723         ESTABLISHED     9168
+  TCP    127.0.0.1:65434        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:65437        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:65442        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:65443        127.0.0.1:4723         ESTABLISHED     9168
+
+2020-04-27 16:55:16,095 appiumDeviceSync.py[line:39] INFO 关闭Appium服务
+2020-04-27 16:55:16,098 appiumDeviceSync.py[line:41] INFO 执行taskkill -f -pid 10600命令
+2020-04-27 16:55:16,112 appiumDeviceSync.py[line:43] INFO Appium服务已关闭
+2020-04-27 16:55:16,112 run.py[line:37] INFO 测试结束，测试报告请查看reports文件夹中的../reports/2020年04月27日16点53分08秒TestReport.html
+2020-04-27 16:57:56,030 run.py[line:33] INFO 测试开始
+2020-04-27 16:57:56,030 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:57:57,033 appiumDeviceSync.py[line:52] INFO 开始启动Appium服务: Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:57:57,034 appiumDeviceSync.py[line:54] INFO 执行 start /b appium -a127.0.0.1 -p 4723 -bp 4724 命令
+2020-04-27 16:57:57,060 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:58:23,617 run.py[line:33] INFO 测试开始
+2020-04-27 16:58:23,617 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:58:24,620 appiumDeviceSync.py[line:52] INFO 开始启动Appium服务: Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:58:24,621 appiumDeviceSync.py[line:54] INFO 执行 start /b appium -a127.0.0.1 -p 4723 -bp 4724 命令开启Appium服务
+2020-04-27 16:58:24,651 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:58:47,650 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-27 16:58:47,651 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:58:47,654 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:58:48,486 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:58:48,529 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:58:49,308 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:58:49,379 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:58:49,380 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-27 16:58:52,737 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-27 16:58:54,616 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:58:56,612 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:58:56,613 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:58:59,032 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:59:02,682 loginView.py[line:59] INFO 登陆成功
+2020-04-27 16:59:02,683 commonFun.py[line:97] INFO 获取“登陆成功”屏幕截图
+2020-04-27 16:59:03,168 loginView.py[line:65] INFO 退出登录
+2020-04-27 16:59:10,001 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:59:13,178 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:59:13,184 appiumDeviceSync.py[line:59] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:59:13,185 desiredCaps.py[line:44] INFO 启动APP
+2020-04-27 16:59:35,404 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-27 16:59:35,405 commonFun.py[line:114] INFO 获取csv数据
+2020-04-27 16:59:35,406 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-27 16:59:36,230 commonFun.py[line:27] INFO 取消升级
+2020-04-27 16:59:36,267 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-27 16:59:37,003 commonFun.py[line:37] INFO 跳过
+2020-04-27 16:59:37,035 loginView.py[line:28] INFO 开始登录
+2020-04-27 16:59:37,036 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-27 16:59:38,701 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-27 16:59:40,757 loginView.py[line:33] INFO 点击登录按钮
+2020-04-27 16:59:41,796 loginView.py[line:47] INFO 检查登录状态
+2020-04-27 16:59:41,797 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-27 16:59:43,848 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-27 16:59:49,775 loginView.py[line:55] ERROR 登陆失败
+2020-04-27 16:59:49,776 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-27 16:59:50,286 myunit.py[line:15] INFO ======结束用例======
+2020-04-27 16:59:53,567 myunit.py[line:10] INFO ======执行用例======
+2020-04-27 16:59:53,573 appiumDeviceSync.py[line:59] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-27 16:59:53,575 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 12:30:14,605 run.py[line:33] INFO 测试开始
+2020-04-28 12:30:14,618 myunit.py[line:10] INFO ======执行用例======
+2020-04-28 12:30:15,625 appiumDeviceSync.py[line:52] INFO 开始启动Appium服务: Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-28 12:30:15,625 appiumDeviceSync.py[line:54] INFO 执行 start /b appium -a127.0.0.1 -p 4723 -bp 4724 命令开启Appium服务
+2020-04-28 12:30:15,636 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 12:30:25,835 myunit.py[line:10] INFO ======执行用例======
+2020-04-28 12:30:26,838 appiumDeviceSync.py[line:52] INFO 开始启动Appium服务: Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-28 12:30:26,838 appiumDeviceSync.py[line:54] INFO 执行 start /b appium -a127.0.0.1 -p 4723 -bp 4724 命令开启Appium服务
+2020-04-28 12:30:26,848 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 12:30:58,625 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-28 12:30:58,626 commonFun.py[line:114] INFO 获取csv数据
+2020-04-28 12:30:58,648 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-28 12:30:59,790 commonFun.py[line:27] INFO 取消升级
+2020-04-28 12:30:59,839 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-28 12:31:00,588 commonFun.py[line:37] INFO 跳过
+2020-04-28 12:31:00,669 loginView.py[line:28] INFO 开始登录
+2020-04-28 12:31:00,669 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-28 12:31:03,104 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-28 12:31:04,164 loginView.py[line:33] INFO 点击登录按钮
+2020-04-28 12:31:05,129 loginView.py[line:47] INFO 检查登录状态
+2020-04-28 12:31:05,130 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-28 12:31:08,180 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-28 12:31:14,192 loginView.py[line:55] ERROR 登陆失败
+2020-04-28 12:31:14,193 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-28 12:31:14,665 myunit.py[line:15] INFO ======结束用例======
+2020-04-28 12:31:17,884 myunit.py[line:10] INFO ======执行用例======
+2020-04-28 12:31:17,886 appiumDeviceSync.py[line:59] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-28 12:31:17,887 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 12:31:40,038 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-28 12:31:40,039 commonFun.py[line:114] INFO 获取csv数据
+2020-04-28 12:31:40,039 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-28 12:31:40,986 commonFun.py[line:27] INFO 取消升级
+2020-04-28 12:31:41,015 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-28 12:31:41,456 commonFun.py[line:37] INFO 跳过
+2020-04-28 12:31:41,803 loginView.py[line:28] INFO 开始登录
+2020-04-28 12:31:41,804 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-28 12:31:44,209 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-28 12:31:47,308 loginView.py[line:33] INFO 点击登录按钮
+2020-04-28 12:31:48,286 loginView.py[line:47] INFO 检查登录状态
+2020-04-28 12:31:48,287 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-28 12:31:51,283 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-28 12:31:56,054 loginView.py[line:55] ERROR 登陆失败
+2020-04-28 12:31:56,055 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-28 12:31:56,544 myunit.py[line:15] INFO ======结束用例======
+2020-04-28 12:31:59,784 appiumDeviceSync.py[line:30] INFO netstat -ano |findstr 4723
+2020-04-28 12:32:00,081 appiumDeviceSync.py[line:33] INFO   TCP    127.0.0.1:4723         0.0.0.0:0              LISTENING       4576
+  TCP    127.0.0.1:4723         127.0.0.1:55437        ESTABLISHED     4576
+  TCP    127.0.0.1:4723         127.0.0.1:55647        ESTABLISHED     4576
+  TCP    127.0.0.1:55437        127.0.0.1:4723         ESTABLISHED     12592
+  TCP    127.0.0.1:55638        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:55641        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:55646        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:55647        127.0.0.1:4723         ESTABLISHED     12592
+  TCP    127.0.0.1:55832        127.0.0.1:4723         TIME_WAIT       0
+
+2020-04-28 12:32:00,097 appiumDeviceSync.py[line:41] INFO 执行 taskkill -f -pid 4576 命令关闭Appium服务
+2020-04-28 12:32:00,114 appiumDeviceSync.py[line:43] INFO Appium服务已关闭
+2020-04-28 12:32:00,114 run.py[line:37] INFO 测试结束，测试报告请查看../reports/2020年04月28日12点30分14秒TestReport.html
+2020-04-28 12:33:29,597 run.py[line:33] INFO 测试开始
+2020-04-28 12:33:29,597 myunit.py[line:10] INFO ======执行用例======
+2020-04-28 12:33:29,599 appiumDeviceSync.py[line:59] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-28 12:33:29,599 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 12:33:50,674 testLogin.py[line:14] INFO 测试登录第一个账户
+2020-04-28 12:33:50,674 commonFun.py[line:114] INFO 获取csv数据
+2020-04-28 12:33:50,676 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-28 12:33:51,722 commonFun.py[line:27] INFO 取消升级
+2020-04-28 12:33:51,768 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-28 12:33:52,532 commonFun.py[line:37] INFO 跳过
+2020-04-28 12:33:52,612 loginView.py[line:28] INFO 开始登录
+2020-04-28 12:33:52,613 loginView.py[line:29] INFO 用户名：klegc2018
+2020-04-28 12:33:55,182 loginView.py[line:31] INFO 密码：Texyf2018
+2020-04-28 12:33:57,040 loginView.py[line:33] INFO 点击登录按钮
+2020-04-28 12:33:57,716 loginView.py[line:47] INFO 检查登录状态
+2020-04-28 12:33:57,716 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-28 12:34:00,027 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-28 12:34:03,844 loginView.py[line:59] INFO 登陆成功
+2020-04-28 12:34:03,844 commonFun.py[line:97] INFO 获取“登陆成功”屏幕截图
+2020-04-28 12:34:04,279 loginView.py[line:65] INFO 退出登录
+2020-04-28 12:34:08,791 myunit.py[line:15] INFO ======结束用例======
+2020-04-28 12:34:12,007 myunit.py[line:10] INFO ======执行用例======
+2020-04-28 12:34:12,010 appiumDeviceSync.py[line:59] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-28 12:34:12,011 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 12:34:34,305 testLogin.py[line:26] INFO 测试登录第二个账户
+2020-04-28 12:34:34,306 commonFun.py[line:114] INFO 获取csv数据
+2020-04-28 12:34:34,306 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-28 12:34:35,227 commonFun.py[line:27] INFO 取消升级
+2020-04-28 12:34:35,273 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-28 12:34:36,065 commonFun.py[line:37] INFO 跳过
+2020-04-28 12:34:36,125 loginView.py[line:28] INFO 开始登录
+2020-04-28 12:34:36,125 loginView.py[line:29] INFO 用户名：klegc2019
+2020-04-28 12:34:37,800 loginView.py[line:31] INFO 密码：Texyf2019
+2020-04-28 12:34:39,829 loginView.py[line:33] INFO 点击登录按钮
+2020-04-28 12:34:40,876 loginView.py[line:47] INFO 检查登录状态
+2020-04-28 12:34:40,877 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-28 12:34:43,813 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-28 12:34:48,849 loginView.py[line:55] ERROR 登陆失败
+2020-04-28 12:34:48,849 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-28 12:34:49,295 myunit.py[line:15] INFO ======结束用例======
+2020-04-28 12:34:52,503 myunit.py[line:10] INFO ======执行用例======
+2020-04-28 12:34:52,509 appiumDeviceSync.py[line:59] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-28 12:34:52,510 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 12:35:14,438 testLogin.py[line:34] INFO 测试登录第三个账户
+2020-04-28 12:35:14,439 commonFun.py[line:114] INFO 获取csv数据
+2020-04-28 12:35:14,440 commonFun.py[line:21] INFO 检查取消按钮
+2020-04-28 12:35:15,429 commonFun.py[line:27] INFO 取消升级
+2020-04-28 12:35:15,469 commonFun.py[line:31] INFO 检查跳过按钮
+2020-04-28 12:35:15,621 commonFun.py[line:37] INFO 跳过
+2020-04-28 12:35:16,239 loginView.py[line:28] INFO 开始登录
+2020-04-28 12:35:16,240 loginView.py[line:29] INFO 用户名：klegc2020
+2020-04-28 12:35:17,933 loginView.py[line:31] INFO 密码：Texyf2020
+2020-04-28 12:35:19,936 loginView.py[line:33] INFO 点击登录按钮
+2020-04-28 12:35:21,016 loginView.py[line:47] INFO 检查登录状态
+2020-04-28 12:35:21,017 commonFun.py[line:102] INFO 检查广告弹窗
+2020-04-28 12:35:23,958 loginView.py[line:37] INFO 检查登录警告信息
+2020-04-28 12:35:29,014 loginView.py[line:55] ERROR 登陆失败
+2020-04-28 12:35:29,015 commonFun.py[line:97] INFO 获取“登陆失败”屏幕截图
+2020-04-28 12:35:29,451 myunit.py[line:15] INFO ======结束用例======
+2020-04-28 12:35:32,603 appiumDeviceSync.py[line:30] INFO netstat -ano |findstr 4723
+2020-04-28 12:35:32,693 appiumDeviceSync.py[line:33] INFO   TCP    127.0.0.1:4723         0.0.0.0:0              LISTENING       4576
+  TCP    127.0.0.1:4723         127.0.0.1:55965        ESTABLISHED     4576
+  TCP    127.0.0.1:4723         127.0.0.1:56156        ESTABLISHED     4576
+  TCP    127.0.0.1:4723         127.0.0.1:56345        ESTABLISHED     4576
+  TCP    127.0.0.1:55965        127.0.0.1:4723         ESTABLISHED     12544
+  TCP    127.0.0.1:56148        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:56150        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:56155        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:56156        127.0.0.1:4723         ESTABLISHED     12544
+  TCP    127.0.0.1:56340        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:56342        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:56344        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:56345        127.0.0.1:4723         ESTABLISHED     12544
+  TCP    127.0.0.1:56548        127.0.0.1:4723         TIME_WAIT       0
+
+2020-04-28 12:35:32,694 appiumDeviceSync.py[line:41] INFO 执行 taskkill -f -pid 4576 命令关闭Appium服务
+2020-04-28 12:35:32,704 appiumDeviceSync.py[line:43] INFO Appium服务已关闭
+2020-04-28 12:35:32,705 run.py[line:37] INFO 测试结束，测试报告请查看../reports/2020年04月28日12点33分29秒TestReport.html
+2020-04-28 12:59:24,392 run.py[line:33] INFO 测试开始
+2020-04-28 12:59:24,393 myunit.py[line:10] INFO ======执行用例======
+2020-04-28 12:59:25,397 appiumDeviceSync.py[line:51] INFO 开始启动Appium服务: Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-28 12:59:25,398 appiumDeviceSync.py[line:53] INFO 执行 start /b appium -a127.0.0.1 -p 4723 -bp 4724 命令开启Appium服务
+2020-04-28 12:59:25,424 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 12:59:57,795 myunit.py[line:10] INFO ======执行用例======
+2020-04-28 12:59:57,797 appiumDeviceSync.py[line:58] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-28 12:59:57,797 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 13:00:20,350 myunit.py[line:10] INFO ======执行用例======
+2020-04-28 13:00:20,351 appiumDeviceSync.py[line:58] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-28 13:00:20,352 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 13:00:42,816 appiumDeviceSync.py[line:30] INFO netstat -ano |findstr 4723
+2020-04-28 13:00:42,954 appiumDeviceSync.py[line:33] INFO   TCP    127.0.0.1:4723         0.0.0.0:0              LISTENING       10484
+  TCP    127.0.0.1:4723         127.0.0.1:58103        FIN_WAIT_2      10484
+  TCP    127.0.0.1:4723         127.0.0.1:58317        TIME_WAIT       0
+  TCP    127.0.0.1:4723         127.0.0.1:58511        TIME_WAIT       0
+  TCP    127.0.0.1:58103        127.0.0.1:4723         CLOSE_WAIT      4704
+  TCP    127.0.0.1:58308        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:58311        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:58316        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:58506        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:58508        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:58510        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:58706        127.0.0.1:4723         TIME_WAIT       0
+
+2020-04-28 13:00:42,954 appiumDeviceSync.py[line:40] INFO 执行 taskkill -f -pid 10484 命令关闭Appium服务
+2020-04-28 13:00:42,965 appiumDeviceSync.py[line:42] INFO Appium服务已关闭
+2020-04-28 13:00:42,965 run.py[line:37] INFO 测试结束，测试报告请查看../reports/2020年04月28日12点59分24秒TestReport.html
+2020-04-28 13:01:36,646 run.py[line:33] INFO 测试开始
+2020-04-28 13:01:36,646 myunit.py[line:10] INFO ======执行用例======
+2020-04-28 13:01:37,649 appiumDeviceSync.py[line:51] INFO 开始启动Appium服务: Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-28 13:01:37,649 appiumDeviceSync.py[line:53] INFO 执行 start /b appium -a127.0.0.1 -p 4723 -bp 4724 命令开启Appium服务
+2020-04-28 13:01:37,660 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 13:02:01,825 myunit.py[line:10] INFO ======执行用例======
+2020-04-28 13:02:01,827 appiumDeviceSync.py[line:58] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-28 13:02:01,827 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 13:02:24,253 myunit.py[line:10] INFO ======执行用例======
+2020-04-28 13:02:24,256 appiumDeviceSync.py[line:58] INFO Appium服务已启动  Host: 127.0.0.1  Port: 4723  BootStrap Port: 4724
+2020-04-28 13:02:24,256 desiredCaps.py[line:44] INFO 启动APP
+2020-04-28 13:02:46,689 appiumDeviceSync.py[line:30] INFO netstat -ano |findstr 4723
+2020-04-28 13:02:46,780 appiumDeviceSync.py[line:33] INFO   TCP    127.0.0.1:4723         0.0.0.0:0              LISTENING       10820
+  TCP    127.0.0.1:4723         127.0.0.1:58781        FIN_WAIT_2      10820
+  TCP    127.0.0.1:4723         127.0.0.1:58980        FIN_WAIT_2      10820
+  TCP    127.0.0.1:4723         127.0.0.1:59178        FIN_WAIT_2      10820
+  TCP    127.0.0.1:58781        127.0.0.1:4723         CLOSE_WAIT      11332
+  TCP    127.0.0.1:58974        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:58976        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:58979        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:58980        127.0.0.1:4723         CLOSE_WAIT      11332
+  TCP    127.0.0.1:59171        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59174        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59177        127.0.0.1:4723         TIME_WAIT       0
+  TCP    127.0.0.1:59178        127.0.0.1:4723         CLOSE_WAIT      11332
+  TCP    127.0.0.1:59367        127.0.0.1:4723         TIME_WAIT       0
+
+2020-04-28 13:02:46,781 appiumDeviceSync.py[line:40] INFO 执行 taskkill -f -pid 10820 命令关闭Appium服务
+2020-04-28 13:02:46,794 appiumDeviceSync.py[line:42] INFO Appium服务已关闭
+2020-04-28 13:02:46,794 run.py[line:37] INFO 测试结束，测试报告请查看../reports/2020年04月28日13点01分36秒TestReport.html

@@ -2,6 +2,13 @@
 
 platformName: Android
 deviceName: 27dc7322
+
+devicesList:
+  - 192.168.1.107:7413
+  - 27dc7322
+  - 127.0.0.1:62001
+  - 127.0.0.1:62025
+
 platformVersion: 7.1.1
 appPackage: com.tal.kaoyan
 appActivity: com.tal.kaoyan.ui.activity.SplashActivity
@@ -11,3 +18,4 @@ unicodeKeyboard: True
 resetKeyboard: True
 ip: localhost
 port: 4723
+host: 127.0.0.1
